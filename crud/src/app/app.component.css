@@ -1,0 +1,19 @@
+main{
+    width: 100%;
+    margin-top: 2rem;
+    text-align: center;
+}
+mat-card{
+    margin: auto;
+    width: 35%;
+    display: block;
+    margin-top: 2rem;
+}
+mat-form-field{
+    display: block;
+    width: 100%;
+    margin: auto;
+}
+button{
+    margin-bottom: 2rem;
+}
